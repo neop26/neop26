@@ -18,6 +18,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bicep-IaC-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Arch%20%26%20Ubuntu-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
+</p>
+
+
+
 ### 👨‍💻 About Me
 
 - I’m **Aben Samuel**, a **Head of Cloud & Infrastructure / Programme Delivery Director** helping organisations modernise on **Azure**.
@@ -54,6 +65,8 @@ I use GitHub both for **serious cloud tooling** and **weekend experiments**—fr
 
 ---
 
+
+
 ### 🧰 Tech & Tools I Enjoy
 
 **Cloud & Platform**
@@ -78,8 +91,6 @@ I use GitHub both for **serious cloud tooling** and **weekend experiments**—fr
 ---
 
 ### 📌 Selected Projects & Experiments
-
-> _Links are examples – swap in your actual repository URLs if they differ._
 
 - **Trackly.nz – Hybrid Office Attendance**  
   _Azure Static Web Apps • Supabase • GitHub Actions_  
@@ -133,8 +144,6 @@ I use GitHub both for **serious cloud tooling** and **weekend experiments**—fr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neop26&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> _If these cards don’t render, make sure you’ve created the profile repo as `neop26/neop26` and that external images are allowed._
-
 ---
 
 ### 🤝 Let’s Connect
@@ -147,4 +156,7 @@ If you’re working on **cloud migration, Azure governance, AI in the enterprise
 
 ---
 
-> “Cloud is easy. Doing it well at scale, with real constraints and real people, is the hard — and fun — part.”
+---
+<p align="center">
+“Cloud is easy. Doing it well at scale, with real constraints and real people, is the hard — and fun — part.” 
+</p>
