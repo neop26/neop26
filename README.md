@@ -110,6 +110,14 @@ I use GitHub both for **serious cloud tooling** and **weekend experiments**—fr
 
 ---
 
+### 🌍 Open Source Contributions
+
+- **[microsoft/apm](https://github.com/microsoft/apm) – Agent Package Manager** _(v0.8.6 · March 2026)_  
+  [PR #443](https://github.com/microsoft/apm/pull/443): `fix: gate .claude/commands/ deployment behind integrate_claude flag`  
+  First contribution to Microsoft's open source **Agent Package Manager**—a fix to prevent Claude command artefacts being deployed unless the `integrate_claude` flag is explicitly enabled. Shipped in the [v0.8.6 release](https://github.com/microsoft/apm/releases/tag/v0.8.6).
+
+---
+
 ### 🗣️ Talks, Writing & Community
 
 - ✍️ I write at **[Wellytonian.com](https://wellytonian.com)** about:
