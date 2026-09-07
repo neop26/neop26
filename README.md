@@ -85,12 +85,6 @@ Earlier posts cover Azure cost control, Bicep, GitHub Actions and Linux hardenin
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neop26&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
----
-
 ### Connect
 
 - **LinkedIn:** [nz.linkedin.com/in/abensamuel](https://nz.linkedin.com/in/abensamuel)
