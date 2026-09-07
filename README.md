@@ -1,170 +1,106 @@
 <!--
-  Hi 👋 – if you’re reading this in raw markdown:
-  This is the GitHub profile README for @neop26 (Aben Samuel).
+  GitHub profile README for @neop26 (Aben Samuel).
 -->
 
-<h1 align="center">Hi, I'm Aben 👋</h1>
+<h1 align="center">Aben Samuel</h1>
 
 <p align="center">
-  <b>Cloud & Infrastructure Leader • Azure Architect • DevOps & AI Enthusiast</b><br />
-  Based in Auckland, New Zealand 🇳🇿
+  <b>Engineering Leadership · Cloud Strategy · AI Governance</b><br />
+  Auckland, New Zealand
 </p>
 
 <p align="center">
-  <a href="https://wellytonian.com" target="_blank">🌐 Blog: Wellytonian.com</a> •
-  <a href="https://nz.linkedin.com/in/abensamuel" target="_blank">💼 LinkedIn</a> •
-  <a href="https://twitter.com/neop26" target="_blank">🐦 @neop26</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bicep-IaC-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Arch%20%26%20Ubuntu-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black" />
-</p>
-
-
-
-### 👨‍💻 About Me
-
-- I’m **Aben Samuel**, a **Head of Cloud & Infrastructure / Programme Delivery Director** helping organisations modernise on **Azure**.
-- ~18+ years in tech, with 11+ years in the **ANZ** region delivering:
-  - Large-scale **cloud migrations**
-  - **Digital transformation** programmes
-  - Cloud **governance, security, and cost optimisation**.
-- I enjoy sitting at the intersection of:
-  - **Architecture** (making the right technical bets)
-  - **Delivery** (getting things shipped)
-  - **Leadership** (growing teams and capability).
-
-I use GitHub both for **serious cloud tooling** and **weekend experiments**—from Azure IaC to productivity apps and Linux setup scripts.
-
----
-
-### 🚀 What I’m Currently Working On
-
-- **Azure Cloud Manager / azmgr.ai**  
-  A platform to:
-  - Visualise and manage **Azure resources** at scale  
-  - Drive **cost optimisation, tagging hygiene, and security compliance**  
-  - Plug into **LLMs** so teams can ask questions about their cloud estate in natural language.
-
-- **Trackly.nz – Office Attendance Tracker**  
-  A **dual web app** (admin + attendance) to:
-  - Track office presence & hybrid-working patterns  
-  - Provide **exec-ready dashboards** for leaders  
-  - Run on **Azure Static Web Apps + Supabase + GitHub Actions**.
-
-- **Productivity & Dev Environment Tooling**
-  - **Pomodoro timer + task manager** tuned to how I actually work.
-  - **Windows & Linux bootstrap scripts** to bring any fresh machine to my ideal dev setup in one go (VS Code, WSL/Arch, tools, dotfiles, etc.).
-
----
-
-
-
-### 🧰 Tech & Tools I Enjoy
-
-**Cloud & Platform**
-- ☁️ Azure (App Service, Container Apps, ACR, AKS, Front Door, VNets, Bicep)
-- 🔐 Identity, security & governance (Entra ID, policies, landing zones)
-- 💸 Cost optimisation, tagging strategies, FinOps-minded design
-
-**Dev & DevOps**
-- 🧪 GitHub Actions (multi-env pipelines, OIDC to Azure, CI/CD)
-- 🧱 Bicep & ARM, a bit of Terraform
-- 🐳 Docker, container-first workflows
-
-**Backend & Frontend**
-- ⚙️ TypeScript / JavaScript
-- ⚛️ React, Azure Static Web Apps
-- 🗄️ Supabase, Postgres, SQL Server (especially in HA/DR scenarios)
-
-**AI & Automation**
-- 🤖 Azure OpenAI & AI Studio / Foundry-style workflows
-- 🧠 LLM-assisted tooling around cloud management and reporting
-
----
-
-### 📌 Selected Projects & Experiments
-
-- **Trackly.nz – Hybrid Office Attendance**  
-  _Azure Static Web Apps • Supabase • GitHub Actions_  
-  Attendance + admin apps for tracking who’s in office, when, and why.
-
-- **Azure Cloud Manager**  
-  _Azure Resource Graph • Cost Management • Policy • OpenAI_  
-  Opinionated dashboard + automation layer for managing large Azure estates with **AI-assisted insights**.
-
-- **Pomodoro + 3-2-1 Task Manager**  
-  _React • Productivity • Analytics_  
-  A focus timer integrated with a **priority-based task system** and end-of-day stats.
-
-- **Universal Dev Workstation Bootstrap (Windows + Linux)**  
-  _PowerShell • Bash • Dotfiles_  
-  Scripts to go from **fresh install ➜ fully configured dev machine** (apps, extensions, keybindings, tools).
-
----
-
-### 🌍 Open Source Contributions
-
-- **[microsoft/apm](https://github.com/microsoft/apm) – Agent Package Manager** _(v0.8.6 · March 2026)_  
-  [PR #443](https://github.com/microsoft/apm/pull/443): `fix: gate .claude/commands/ deployment behind integrate_claude flag`  
-  First contribution to Microsoft's open source **Agent Package Manager**—a fix to prevent Claude command artefacts being deployed unless the `integrate_claude` flag is explicitly enabled. Shipped in the [v0.8.6 release](https://github.com/microsoft/apm/releases/tag/v0.8.6).
-
----
-
-### 🗣️ Talks, Writing & Community
-
-- ✍️ I write at **[Wellytonian.com](https://wellytonian.com)** about:
-  - Cloud migration war stories
-  - Azure architecture patterns
-  - AI in real-world enterprises
-  - “Don’t do this” lessons from the field
-- 🎤 I speak about:
-  - **Azure + AI + GitHub Copilot** in engineering teams
-  - **Cloud foundations done right** (networking, identity, security, DR)
-  - Modern **DevOps & platform engineering** practices.
-- 👨‍🏫 I enjoy mentoring students and early-career engineers, especially around practical cloud skills and career arcs.
-
----
-
-### 🧪 How I Like to Work
-
-- **Data & outcomes first** – dashboards, cost views, uptime, and customer impact.
-- **IaC or it didn’t happen** – infra and pipelines as code, versioned and repeatable.
-- **Secure by default** – identities, network boundaries, secrets, and guardrails built-in.
-- **Hands-on leadership** – I love whiteboards, but I also love a good `git diff`.
-
----
-
-### 📈 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neop26&show_icons=true&theme=tokyonight" alt="Aben's GitHub Stats" />
+  <a href="https://wellytonian.com" target="_blank">Blog</a> ·
+  <a href="https://nz.linkedin.com/in/abensamuel" target="_blank">LinkedIn</a> ·
+  <a href="https://twitter.com/neop26" target="_blank">@neop26</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neop26&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### About
 
-- 💼 **LinkedIn:** [nz.linkedin.com/in/abensamuel](https://nz.linkedin.com/in/abensamuel)  
-- 🐦 **Twitter/X:** [@neop26](https://twitter.com/neop26)  
-- 📝 **Blog:** [Wellytonian.com](https://wellytonian.com)  
+I lead cloud and platform engineering in enterprises, where the hard part is rarely the technology — it’s governance, cost, reliability and people, all at once.
 
-If you’re working on **cloud migration, Azure governance, AI in the enterprise, or dev productivity tooling**, I’m always keen to swap notes or collaborate.
+- **Technical governance** — engineering standards, SDLC guardrails, security by design
+- **Engineering economics** — cloud cost governance, and making spend defensible to a board
+- **Reliability** — incident management, observability, and uptime that survives an audit
+- **Advisory** — translating architecture decisions for ExCo, SteerCo and board stakeholders
+
+Most of my thinking this year has gone into what changes when AI agents enter that picture.
 
 ---
 
+### Writing
+
+I publish at **[wellytonian.com](https://wellytonian.com)**:
+
+- **[Building an AI Operating Model](https://wellytonian.com/posts/ai/building-an-ai-operating-model/)** — model routing, prompt discipline, agent governance and ROI measurement
+- **[The AI Governance Problem](https://wellytonian.com/posts/ai/the-ai-governance-problem/)** — why casual model usage stops working once billing and risk catch up
+- **[The Concurrency Paradox](https://wellytonian.com/posts/ai/spec-driven-parallel-dev/)** — when agents outpace review, coordination becomes the bottleneck
+
+Earlier posts cover Azure cost control, Bicep, GitHub Actions and Linux hardening.
+
 ---
+
+### Building
+
+- **azmgr.ai** — managing large Azure estates: cost, tagging and compliance, with AI-assisted insights
+- **Trackly** — hybrid workplace attendance and reporting *(private for now)*
+- **Developer environment tooling** — reproducible machine setup across Linux and Windows
+
+---
+
+### Public Repositories
+
+- **[ubupublic](https://github.com/neop26/ubupublic)** — modular Ubuntu and Arch provisioning. Menu-driven, re-runnable modules for SSH hardening, UFW, Docker and developer tooling, with smoke tests in CI
+- **[public-labs-azure](https://github.com/neop26/public-labs-azure)** — hands-on Azure labs in Bicep
+- **[azure-vm-iperf-testing](https://github.com/neop26/azure-vm-iperf-testing)** — deploy VMs to benchmark network throughput between Azure regions
+- **[archscripts](https://github.com/neop26/archscripts)** · **[publicscripts](https://github.com/neop26/publicscripts)** — everyday automation
+
+---
+
+### Open Source
+
+**[microsoft/apm](https://github.com/microsoft/apm)** — Agent Package Manager
+
+[PR #443](https://github.com/microsoft/apm/pull/443) — `.claude/commands/` was being created on every install, even for projects targeting Copilot. Auditing the integration path showed one of thirteen integrator calls had neither an external gate nor a self-guard, so it built the directory tree from nothing. Fixed, covered with regression tests, and shipped in [v0.8.6](https://github.com/microsoft/apm/releases/tag/v0.8.6).
+
+---
+
+### How I Work
+
+- **Outcomes over output** — cost curves, uptime and customer impact, not story points
+- **Infrastructure as code** — versioned, repeatable, reviewable
+- **Secure by default** — identity, boundaries and guardrails designed in, not bolted on
+- **Hands-on** — I still read the diff
+
+---
+
 <p align="center">
-“Cloud is easy. Doing it well at scale, with real constraints and real people, is the hard — and fun — part.” 
+  <img src="https://github-readme-stats.vercel.app/api?username=neop26&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+### Connect
+
+- **LinkedIn:** [nz.linkedin.com/in/abensamuel](https://nz.linkedin.com/in/abensamuel)
+- **X:** [@neop26](https://twitter.com/neop26)
+- **Blog:** [wellytonian.com](https://wellytonian.com)
+
+If you’re working on cloud governance, AI adoption in the enterprise, or platform engineering, I’m always keen to swap notes.
+
+---
+
+<p align="center">
+  <i>Cloud is easy. Doing it well at scale, with real constraints and real people, is the hard part.</i>
 </p>
