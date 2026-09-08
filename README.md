@@ -53,18 +53,9 @@ Earlier posts cover Azure cost control, Bicep, GitHub Actions and Linux hardenin
 
 ### Building
 
-- **azmgr.ai** — managing large Azure estates: cost, tagging and compliance, with AI-assisted insights
-- **Trackly** — hybrid workplace attendance and reporting *(private for now)*
-- **Developer environment tooling** — reproducible machine setup across Linux and Windows
+Two tools, in stealth for now. Both come from the same conviction — that a platform can be efficient and compliant at the same time, rather than trading one against the other. One of them is deliberately outside my usual stack; building where I'm least comfortable is the whole point.
 
----
-
-### Public Repositories
-
-- **[ubupublic](https://github.com/neop26/ubupublic)** — modular Ubuntu and Arch provisioning. Menu-driven, re-runnable modules for SSH hardening, UFW, Docker and developer tooling, with smoke tests in CI
-- **[public-labs-azure](https://github.com/neop26/public-labs-azure)** — hands-on Azure labs in Bicep
-- **[azure-vm-iperf-testing](https://github.com/neop26/azure-vm-iperf-testing)** — deploy VMs to benchmark network throughput between Azure regions
-- **[archscripts](https://github.com/neop26/archscripts)** · **[publicscripts](https://github.com/neop26/publicscripts)** — everyday automation
+Most of my work lives in private repositories, though I hope to open more of it up before long. Learning is the constant — that part I'd never give up.
 
 ---
 
@@ -82,6 +73,8 @@ Earlier posts cover Azure cost control, Bicep, GitHub Actions and Linux hardenin
 - **Infrastructure as code** — versioned, repeatable, reviewable
 - **Secure by default** — identity, boundaries and guardrails designed in, not bolted on
 - **Hands-on** — I still read the diff
+
+Easier to show than to claim: [ubupublic](https://github.com/neop26/ubupublic) opens the SSH port *before* enabling the firewall, names its sshd drop-in `01-` because sshd honours the first match, and dropped `curl | sudo sh` in favour of a signed repository.
 
 ---
 
